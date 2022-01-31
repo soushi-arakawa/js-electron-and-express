@@ -14,7 +14,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1"
   },
-  "main": "app.js",
+  "main": "main.js",
   "devDependencies": {},
   "keywords": [],
   "author": "",
